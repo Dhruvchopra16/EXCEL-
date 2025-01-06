@@ -1,1 +1,1 @@
-# EXCEL-
+Data analysis and visulization of hotel booking .Includes insights of cancellations  and each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
